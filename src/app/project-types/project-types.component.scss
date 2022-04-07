@@ -1,0 +1,38 @@
+.typecontent{
+  background-color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#BlankApplication:hover{
+  background-color: #C4C4C4;
+}
+
+#MenuApplication:hover{
+  background-color: #C4C4C4;
+}
+
+#TwitterApplication:hover{
+  background-color: #C4C4C4;
+}
+
+.typeiconlist{
+  height: 100px;
+  width: 100px;
+}
+
+.projecttype{
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  font-size: larger;
+}
+
+.typedescription{
+  color: gray;
+  text-align: center;
+  border: 10px;
+  display: flex;
+  font-size: medium;
+}
